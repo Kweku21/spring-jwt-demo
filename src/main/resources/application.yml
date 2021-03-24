@@ -1,0 +1,10 @@
+server:
+  port: 8083
+
+  error:
+    include-message: always
+
+
+jwt:
+  token:
+    secret:secret1234
